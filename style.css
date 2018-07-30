@@ -1,4 +1,12 @@
 
 body {
-    background-color: #2ce3b5;
+    background-color: orange;
 }
+
+a {
+	color: red;
+}
+ul {color:yellow;}
+.best {color:blue;}
+#justfav {color: violet;}
+.sidebar {color: yellow;}
